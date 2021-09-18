@@ -1,0 +1,82 @@
+[
+    {
+          "id": 1,
+          "name": "Lamborghini",
+          "model": "2021",
+          "mileage": 25,
+          "amount":"USD 66995",
+          "imgPath": "./images/car_1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Chevrolet",
+        "model": "2018",
+        "mileage": 22,
+        "amount":"USD 13473",
+        "imgPath": "./images/car_2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Bugatti",
+        "model": "2020",
+        "mileage": 21,
+        "amount":"USD 95623",
+        "imgPath": "./images/car_3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Audi",
+        "model": "2019",
+        "mileage": 20,
+        "amount":"USD 59823",
+        "imgPath": "./images/car_4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Benz",
+        "model": "2017",
+        "mileage": 22,
+        "amount":"USD 56123",
+        "imgPath": "./images/car_5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "BMW",
+        "model": "2020",
+        "mileage": 24,
+        "amount":"USD 67234",
+        "imgPath": "./images/car_6.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Jaguar",
+        "model": "2021",
+        "mileage": 19,
+        "amount":"USD 23457",
+        "imgPath": "./images/car_7.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Hyundai",
+        "model": "2019",
+        "mileage": 20,
+        "amount":"USD 67456",
+        "imgPath": "./images/car_8.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Ford",
+        "model": "2018",
+        "mileage": 22,
+        "amount":"USD 269899",
+        "imgPath": "./images/car_9.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Bugatti",
+        "model": "2021",
+        "mileage": 23,
+        "amount":"USD 166995",
+        "imgPath": "./images/car_10.jpg"
+    }
+]

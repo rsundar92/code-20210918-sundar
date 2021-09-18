@@ -1,0 +1,28 @@
+.car-comp {
+    padding: 20px;
+    display: inline-flex;
+    flex-direction: column;
+    box-shadow: 0 0 10px rgb(0 0 0 / 30%);
+    border-radius: 5px;
+    cursor: pointer; 
+    margin: 10px;
+}
+
+.car-comp:hover {
+    box-shadow: 0 0 20px rgb(0 0 0 / 80%);
+}
+
+img {
+    border: 1px solid #ddd;
+    border-radius: 20px;
+    padding: 5px;
+}
+
+.car-comp p {
+    margin: 2px;
+}
+
+.specs {
+    display: flex;
+    border: 1px solid grey;
+}
